@@ -11,7 +11,7 @@ Dogecoin
 Uniswap
 Binance USD
 Litecoin
-Chainlin
+Chainlink
 Avalanch
 Algorand
 Bitcoin Cash
@@ -22,4 +22,3 @@ Filecoin
 Internet Computer
 Ethereum Classic
 TRON
-FTX Token	
