@@ -9,7 +9,6 @@ Polkadot
 USD Coin
 Dogecoin
 Uniswap
-Binance USD
 Litecoin
 Chainlink
 Avalanch
